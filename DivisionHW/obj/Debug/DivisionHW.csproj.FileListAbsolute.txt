@@ -1,0 +1,13 @@
+c:\users\1\documents\visual studio 2017\Projects\DivisionHW\DivisionHW\obj\Debug\MainWindow.g.cs
+c:\users\1\documents\visual studio 2017\Projects\DivisionHW\DivisionHW\obj\Debug\App.g.cs
+c:\users\1\documents\visual studio 2017\Projects\DivisionHW\DivisionHW\obj\Debug\DivisionHW_MarkupCompile.cache
+c:\users\1\documents\visual studio 2017\Projects\DivisionHW\DivisionHW\obj\Debug\DivisionHW_MarkupCompile.lref
+c:\users\1\documents\visual studio 2017\Projects\DivisionHW\DivisionHW\bin\Debug\DivisionHW.exe.config
+c:\users\1\documents\visual studio 2017\Projects\DivisionHW\DivisionHW\bin\Debug\DivisionHW.exe
+c:\users\1\documents\visual studio 2017\Projects\DivisionHW\DivisionHW\bin\Debug\DivisionHW.pdb
+c:\users\1\documents\visual studio 2017\Projects\DivisionHW\DivisionHW\obj\Debug\MainWindow.baml
+c:\users\1\documents\visual studio 2017\Projects\DivisionHW\DivisionHW\obj\Debug\DivisionHW.g.resources
+c:\users\1\documents\visual studio 2017\Projects\DivisionHW\DivisionHW\obj\Debug\DivisionHW.Properties.Resources.resources
+c:\users\1\documents\visual studio 2017\Projects\DivisionHW\DivisionHW\obj\Debug\DivisionHW.csproj.GenerateResource.Cache
+c:\users\1\documents\visual studio 2017\Projects\DivisionHW\DivisionHW\obj\Debug\DivisionHW.exe
+c:\users\1\documents\visual studio 2017\Projects\DivisionHW\DivisionHW\obj\Debug\DivisionHW.pdb

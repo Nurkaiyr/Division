@@ -1,0 +1,24 @@
+﻿<Window x:Class="DivisionHW.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DivisionHW"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="80*"/>
+        </Grid.ColumnDefinitions>
+
+        <ListView Name="divisionList" ItemStringFormat="String" SelectionChanged="DivisionList_SelectionChanged"/>
+
+        <DataGrid Name="employeeData" Grid.Column="1" ColumnWidth="*">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ФИО" Binding="{Binding Path=Name}"/>
+                <DataGridTextColumn Header="Возраст" Binding="{Binding Path=Age}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
